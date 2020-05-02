@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'General Products Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('General Products Regular'), url('GeneralProductsRegular-d62Z.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'General Products Regular';
+    color: greenyellow;
+    letter-spacing: 3px;
+}
