@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robo-Search/static/css/main.ed9bccfd.chunk.css",
+    "main.js": "/Robo-Search/static/js/main.787e2b50.chunk.js",
+    "main.js.map": "/Robo-Search/static/js/main.787e2b50.chunk.js.map",
+    "runtime-main.js": "/Robo-Search/static/js/runtime-main.e21ea030.js",
+    "runtime-main.js.map": "/Robo-Search/static/js/runtime-main.e21ea030.js.map",
+    "static/css/2.036b41f9.chunk.css": "/Robo-Search/static/css/2.036b41f9.chunk.css",
+    "static/js/2.12e19136.chunk.js": "/Robo-Search/static/js/2.12e19136.chunk.js",
+    "static/js/2.12e19136.chunk.js.map": "/Robo-Search/static/js/2.12e19136.chunk.js.map",
+    "index.html": "/Robo-Search/index.html",
+    "precache-manifest.5afed91bcd9abf863b24800a090cfe8a.js": "/Robo-Search/precache-manifest.5afed91bcd9abf863b24800a090cfe8a.js",
+    "service-worker.js": "/Robo-Search/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/Robo-Search/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.ed9bccfd.chunk.css.map": "/Robo-Search/static/css/main.ed9bccfd.chunk.css.map",
+    "static/js/2.12e19136.chunk.js.LICENSE.txt": "/Robo-Search/static/js/2.12e19136.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robo-Search/static/media/GeneralProductsRegular-d62Z.bac87289.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e21ea030.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.12e19136.chunk.js",
+    "static/css/main.ed9bccfd.chunk.css",
+    "static/js/main.787e2b50.chunk.js"
+  ]
+}
